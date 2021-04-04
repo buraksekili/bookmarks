@@ -1,0 +1,5 @@
+baseURL = "https://buraksekili.github.io/"
+languageCode = "en-us"
+title = "Reading List"
+theme = "hugonews"
+publishDir = "docs"
