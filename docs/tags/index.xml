@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Reading List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 04 Apr 2021 19:45:52 +0300</lastBuildDate>
     
 	<atom:link href="https://buraksekili.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>docker</title>
+      <link>https://buraksekili.github.io/tags/docker/</link>
+      <pubDate>Sun, 04 Apr 2021 19:45:52 +0300</pubDate>
+      
+      <guid>https://buraksekili.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
