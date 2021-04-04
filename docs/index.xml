@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reading List</title>
-    <link>https://buraksekili.github.io/</link>
+    <link>https://buraksekili.github.io/bookmarks/</link>
     <description>Recent content on Reading List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Apr 2021 19:45:52 +0300</lastBuildDate>
     
-	<atom:link href="https://buraksekili.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://buraksekili.github.io/bookmarks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Docker Image Size</title>
-      <link>https://buraksekili.github.io/items/docker-size-ardanlabs/</link>
+      <link>https://buraksekili.github.io/bookmarks/items/docker-size-ardanlabs/</link>
       <pubDate>Sun, 04 Apr 2021 19:45:52 +0300</pubDate>
       
-      <guid>https://buraksekili.github.io/items/docker-size-ardanlabs/</guid>
+      <guid>https://buraksekili.github.io/bookmarks/items/docker-size-ardanlabs/</guid>
       <description></description>
     </item>
     

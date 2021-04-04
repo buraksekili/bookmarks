@@ -1,4 +1,4 @@
-baseURL = "https://buraksekili.github.io/"
+baseURL = "https://buraksekili.github.io/bookmarks"
 languageCode = "en-us"
 title = "Reading List"
 theme = "hugonews"
