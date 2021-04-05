@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Reading List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Apr 2021 19:45:52 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 15:55:03 +0300</lastBuildDate>
     
 	<atom:link href="https://buraksekili.github.io/bookmarks/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C</title>
+      <link>https://buraksekili.github.io/bookmarks/tags/c/</link>
+      <pubDate>Mon, 05 Apr 2021 15:55:03 +0300</pubDate>
+      
+      <guid>https://buraksekili.github.io/bookmarks/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unix</title>
+      <link>https://buraksekili.github.io/bookmarks/tags/unix/</link>
+      <pubDate>Mon, 05 Apr 2021 15:55:03 +0300</pubDate>
+      
+      <guid>https://buraksekili.github.io/bookmarks/tags/unix/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>docker</title>
