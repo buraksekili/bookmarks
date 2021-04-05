@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Items on Reading List</title>
-    <link>https://buraksekili.github.io/items/</link>
+    <link>https://buraksekili.github.io/bookmarks/items/</link>
     <description>Recent content in Items on Reading List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Apr 2021 19:45:52 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 15:55:03 +0300</lastBuildDate>
     
-	<atom:link href="https://buraksekili.github.io/items/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://buraksekili.github.io/bookmarks/items/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Docker Image Size</title>
-      <link>https://buraksekili.github.io/items/docker-size-ardanlabs/</link>
+      <title>Threads in C</title>
+      <link>https://buraksekili.github.io/bookmarks/items/threads/</link>
+      <pubDate>Mon, 05 Apr 2021 15:55:03 +0300</pubDate>
+      
+      <guid>https://buraksekili.github.io/bookmarks/items/threads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Docker Image Size</title>
+      <link>https://buraksekili.github.io/bookmarks/items/docker-size-ardanlabs/</link>
       <pubDate>Sun, 04 Apr 2021 19:45:52 +0300</pubDate>
       
-      <guid>https://buraksekili.github.io/items/docker-size-ardanlabs/</guid>
+      <guid>https://buraksekili.github.io/bookmarks/items/docker-size-ardanlabs/</guid>
       <description></description>
     </item>
     
