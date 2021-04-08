@@ -7,6 +7,7 @@ import (
 	"os"
 	"os/exec"
 	"strings"
+	"time"
 )
 
 func main() {
@@ -71,13 +72,13 @@ func main() {
 	content := fmt.Sprintf(`
 ---
 title: "%s"
-date: 2021-04-05T15:55:03+03:00
+date: "%s"
 itemurl: "%s"
 sites: "%s"
 tags: [%s] 
 draft: false
 ---
-`, strings.TrimSpace(title), strings.TrimSpace(itemURL), strings.TrimSpace(sites), tagsStr)
+`, strings.TrimSpace(title), time.Now().UTC().Format("2006-01-02T15:04:05-0700"), strings.TrimSpace(itemURL), strings.TrimSpace(sites), tagsStr)
 
 	cmd := exec.Command("hugo", "new", fmt.Sprintf("items/%s", filename))
 	err = cmd.Run()
