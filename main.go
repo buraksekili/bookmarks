@@ -13,12 +13,7 @@ func main() {
 	args := os.Args[1:]
 
 	filename := fmt.Sprintf("%s.md", args[0])
-
-	cmd := exec.Command("hugo", "new", fmt.Sprintf("items/%s", filename))
-	err := cmd.Run()
-	if err != nil {
-		fmt.Println("error ", err.Error())
-	}
+	err := fmt.Errorf("err")
 
 	var title string
 	var itemURL string
@@ -83,6 +78,12 @@ tags: [%s]
 draft: false
 ---
 `, strings.TrimSpace(title), strings.TrimSpace(itemURL), strings.TrimSpace(sites), tagsStr)
+
+	cmd := exec.Command("hugo", "new", fmt.Sprintf("items/%s", filename))
+	err = cmd.Run()
+	if err != nil {
+		fmt.Println("error ", err.Error())
+	}
 
 	f, err := os.Create("./content/items/" + filename)
 	if err != nil {
