@@ -6,10 +6,19 @@
     <description>Recent content on Reading List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Apr 2021 07:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Apr 2021 12:32:55 +0000</lastBuildDate>
     
 	<atom:link href="https://buraksekili.github.io/bookmarks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GitHub interaction with Go</title>
+      <link>https://buraksekili.github.io/bookmarks/items/rsc-github/</link>
+      <pubDate>Sat, 10 Apr 2021 12:32:55 +0000</pubDate>
+      
+      <guid>https://buraksekili.github.io/bookmarks/items/rsc-github/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>harbor blog theme</title>

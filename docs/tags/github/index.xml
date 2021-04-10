@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>go on Reading List</title>
-    <link>https://buraksekili.github.io/bookmarks/tags/go/</link>
-    <description>Recent content in go on Reading List</description>
+    <title>github on Reading List</title>
+    <link>https://buraksekili.github.io/bookmarks/tags/github/</link>
+    <description>Recent content in github on Reading List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Apr 2021 12:32:55 +0000</lastBuildDate>
     
-	<atom:link href="https://buraksekili.github.io/bookmarks/tags/go/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://buraksekili.github.io/bookmarks/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Sat, 10 Apr 2021 12:32:55 +0000</pubDate>
       
       <guid>https://buraksekili.github.io/bookmarks/items/rsc-github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Re2 in Go</title>
-      <link>https://buraksekili.github.io/bookmarks/items/re2-go/</link>
-      <pubDate>Wed, 07 Apr 2021 15:55:03 +0300</pubDate>
-      
-      <guid>https://buraksekili.github.io/bookmarks/items/re2-go/</guid>
       <description></description>
     </item>
     
